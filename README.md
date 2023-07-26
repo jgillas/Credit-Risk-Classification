@@ -13,8 +13,14 @@
 
   - Logistic Regression Model Created with Original Data
 
+    <img width="377" alt="Screenshot 2023-07-26 at 5 17 24 PM" src="https://github.com/jgillas/Credit-Risk-Classification/assets/125215083/04c2ccd1-08d7-436e-8aa6-bddac2c388c4">
+
+    <img width="476" alt="Screenshot 2023-07-26 at 5 18 47 PM" src="https://github.com/jgillas/Credit-Risk-Classification/assets/125215083/7b71ab6c-65b1-4ef4-91c6-ad52459c78b3">
+
 
   - Logistic Regression Model Created with Randomly Oversampled Data
 
 
 ## Summary 
+
+  - 
