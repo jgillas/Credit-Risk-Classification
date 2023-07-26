@@ -25,4 +25,12 @@
 
 ## Summary 
 
-  - 
+In summary the model created with the randomly oversampled data increases the balanced accuracy score. This means that it helps to improve on the model created with the original data. The increase in the balanced accuracy score means it can help to better predict the true positives. That means that it is better at finding the high risk loans and it also helps with a high recall accuraccy. 
+
+Both models have high accuracy which means that both models are good at correctly predicting high risk loans and healthy loans. 
+
+Both models also have a high precision score which means that both models are good at telling which loans are really hgih risk ones and which ones are healthy. It means that the models have a low rate of producing false positives. 
+
+Both models also have a high recall score which means that both models are good giving a comprehensive output about the high risk loans and the healthy loans. Having a high recall score means there is a low chance of a false negative result. 
+
+Overall, both these models are good at telling which loans are high risk loans and which ones are healthy loans. The model created with randomly oversampled data builds on the first model created with the original data. 
