@@ -1,6 +1,6 @@
 # Credit-Risk-Classification Report
 
-# Overview of Analysis
+## Overview of Analysis
 
   - The purpose of this analysis is to build a model in order to determine the creditworthiness of borrowers.
   - The financial information the data is based on is from historical lending activity from a peer to peer lending services company.
@@ -10,3 +10,11 @@
   - In this analysis I created two different logistic regression models. One was created using the original data and the other was created using randomly oversampled data. This is so we could get rid of any imbalances in the data and then we compared the first logistic regression model to the second logistic regression model.
 
 ## Results
+
+  - Logistic Regression Model Created with Original Data
+
+
+  - Logistic Regression Model Created with Randomly Oversampled Data
+
+
+## Summary 
